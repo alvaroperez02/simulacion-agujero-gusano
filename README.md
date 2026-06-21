@@ -1,4 +1,4 @@
-# 🌌 Simulación de un Agujero de Gusano de Morris-Thorne en Tiempo Real
+# Simulación de un Agujero de Gusano de Morris-Thorne en Tiempo Real
 
 Este repositorio contiene el código y la implementación de un simulador relativista en tiempo real de un agujero de gusano transitable, utilizando la métrica propuesta por Michael Morris y Kip Thorne en 1988. 
 
@@ -6,7 +6,7 @@ El simulador ha sido desarrollado en **Unity 6** empleando shaders personalizado
 
 ---
 
-## 🔗 Enlaces del Proyecto
+## Enlaces del Proyecto
 
 *   **💻 Simulador Interactivo (Web):** [Visitar el sitio web del simulador](https://alvaroperez02.github.io/simulacion-agujero-gusano/)
 *   **📄 Memoria del Trabajo (PDF):** [Descargar PDF en la sección de Releases](https://github.com/alvaroperez02/simulacion-agujero-gusano/releases)
@@ -14,7 +14,7 @@ El simulador ha sido desarrollado en **Unity 6** empleando shaders personalizado
 
 ---
 
-## 📸 Demostración Visual
+## Demostración Visual
 
 A continuación se muestran algunas representaciones de los fenómenos físicos simulados:
 
@@ -34,7 +34,7 @@ Representación de la hipersuperficie bidimensional de la garganta incrustada en
 
 ---
 
-## 📐 Fundamento Físico
+## Fundamento Físico
 
 La métrica de Morris-Thorne describe un agujero de gusano estático y con simetría esférica que conecta dos regiones asintóticamente planas (los universos $l > 0$ y $l < 0$):
 
@@ -44,7 +44,7 @@ Donde $b_0$ es el radio de la garganta en el punto de transición ($l=0$). En la
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 *   **Motor Gráfico:** Unity 6
 *   **Lenguajes de programación:** C# (control de cámara e interacciones) y HLSL/Cg (trazado de rayos y cálculo relativista)
